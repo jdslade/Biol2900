@@ -1,0 +1,7 @@
+Feature,Description,Group,Reference
+f1_n_eyespots,number of eyespots in peacock trains (Figure 1),NA,Petrie_et_al._1991
+f1_n_mates,number of peahens peacocks mated with (Figure 1),NA,Petrie_et_al._1991
+f2_n_eyespots,number of eyespots in peacock trains (Figure 2),NA,Petrie_and_Halliday_1994
+f2_n_cop,number of times peacocks copulated with 1+ peahens (Figure 2),Control,Petrie_and_Halliday_1994
+f3_cont,mean change in seasonal copulations of peacocks with no train modification (Figure 3),Control,Petrie_and_Halliday_1994  
+f3_exp,mean change seasonal copulations of peacocks with 20 eyespots removed from trains (Figure 3),Experimental,Petrie_and_Halliday_1994
